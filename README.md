@@ -29,3 +29,5 @@ Você pode instalar as dependências necessárias usando o seguinte comando:
 
 ```bash
 pip install pandas reportlab python-docx python-pptx pywin32
+
+
