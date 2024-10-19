@@ -1,0 +1,36 @@
+Como Usar
+Instalação: Baixe o instalador MySetup.exe disponível na pasta Dist.
+Executar: Após a instalação, execute o aplicativo.
+Selecionar Arquivo: Escolha o arquivo que deseja converter.
+Escolher Formato: Selecione o formato de saída desejado.
+Nome do Arquivo: Insira um novo nome para o arquivo convertido (opcional).
+Salvar Local: Escolha o local onde o arquivo convertido será salvo (por padrão, a pasta Downloads).
+Conversão: Clique no botão "Converter" para iniciar o processo de conversão.
+Notificações: Mensagens aparecerão para confirmar a conversão ou notificar sobre erros.
+Regras de Conversão
+Possibilidades de Conversão
+O aplicativo suporta a conversão de:
+Excel para: CSV, XLSX, ODS, PDF
+CSV para: CSV, XLSX, ODS, PDF
+Word para: TXT, PDF
+PowerPoint para: TXT, PDF
+Restrições
+Formatos não suportados ou incorretos resultarão em mensagens de erro informativas.
+Contribuições
+Contribuições são bem-vindas! Se você quiser ajudar a melhorar este projeto, sinta-se à vontade para enviar um pull request ou abrir um issue para discutir melhorias.
+
+Licença
+Este projeto está sob a MIT License.
+
+Contato
+Para dúvidas ou sugestões, entre em contato com seu email ou GitHub.
+
+
+### Como Atualizar o README.md
+
+1. **Crie um arquivo README.md**: No seu repositório do GitHub, clique em "Add file" > "Create new file" e nomeie o arquivo como `README.md`.
+2. **Cole o Conteúdo**: Copie o conteúdo acima e cole no editor do GitHub.
+3. **Personalize**: Substitua "seu email ou GitHub" pelo seu contato real e ajuste qualquer outra parte que queira modificar.
+4. **Commit Changes**: Clique em "Commit changes" para salvar o arquivo.
+
+Se precisar de mais alguma coisa ou quiser ajustes no texto, é só avisar!
