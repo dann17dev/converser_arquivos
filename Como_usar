@@ -1,36 +1,15 @@
-# Conversor de Arquivos
+Como Usar
+Execute o arquivo principal do conversor.
+Selecione o arquivo a ser convertido.
+Escolha o formato de saída desejado.
+Nomeie o novo arquivo e escolha o local de salvamento.
+Clique em "Converter" e aguarde a conclusão da conversão.
 
-Este é um aplicativo que permite a conversão de diferentes tipos de arquivos, como Excel, CSV, Word e PowerPoint, para formatos de saída variados.
 
-## Como Usar
+### Ajustes Feitos:
+- Adicionada uma seção "Como Usar" para explicar o processo.
+- Corrigidos detalhes de dependências e funcionalidades.
+- Incluído o link para o download do instalador ao final.
 
-### Instalação
-1. Baixe o instalador `MySetup.exe` disponível na pasta `Dist`.
-2. Execute o instalador para instalar o aplicativo no seu computador.
 
-### Executar
-Após a instalação, execute o aplicativo.
-
-### Passos para Conversão
-1. **Selecionar Arquivo**: Escolha o arquivo que deseja converter.
-2. **Escolher Formato**: Selecione o formato de saída desejado.
-3. **Nome do Arquivo**: Insira um novo nome para o arquivo convertido (opcional).
-4. **Salvar Local**: Escolha o local onde o arquivo convertido será salvo (por padrão, a pasta Downloads).
-5. **Conversão**: Clique no botão "Converter" para iniciar o processo de conversão.
-6. **Notificações**: Mensagens aparecerão para confirmar a conversão ou notificar sobre erros.
-
-## Regras de Conversão
-
-### Possibilidades de Conversão
-O aplicativo suporta a conversão dos seguintes formatos:
-- **Excel** para: CSV, XLSX, ODS, PDF
-- **CSV** para: CSV, XLSX, ODS, PDF
-- **Word** para: TXT, PDF
-- **PowerPoint** para: TXT, PDF
-
-### Restrições
-- Formatos não suportados ou incorretos resultarão em mensagens de erro informativas.
-
-## Contribuições
-Contribuições são bem-vindas! Se você quiser ajudar a melhorar este projeto, sinta-se à vontade para enviar um pull request ou abrir um issue para discutir melhorias.
-
+Link: https://drive.google.com/file/d/1-Altw0k8PnuiYmttNZ1mvn65CkIIaqXu/view
